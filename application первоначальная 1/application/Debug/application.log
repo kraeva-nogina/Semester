@@ -1,0 +1,157 @@
+﻿Построение начато 09.05.2016 17:55:41.
+     1>Проект "\\profile01\FRW7\kraevayaa\Desktop\application\application\application.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\application.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\application.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\application.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp application.cpp table.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         application.cpp
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(499): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(499): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(500): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(500): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(508): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(508): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(509): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(509): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(514): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(514): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(515): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(515): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(523): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(523): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(524): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(524): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(532): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(532): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(533): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(533): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(538): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(538): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(539): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(539): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(547): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(547): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(548): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(548): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(556): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(556): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(557): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(557): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(562): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(562): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(563): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(563): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(571): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(571): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(572): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(572): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(578): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(578): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(579): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(579): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(584): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(584): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(585): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(585): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(587): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(587): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(588): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(588): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(590): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(590): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(591): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(591): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(593): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(593): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(594): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(594): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(596): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(596): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(597): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(597): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(599): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(599): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(600): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(600): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(607): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(607): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(608): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(608): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(613): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(613): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(614): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(614): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(632): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(632): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(633): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(633): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(637): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(637): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(638): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(638): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(655): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(655): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(656): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(656): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(660): error C2065: errorProvider1: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(660): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(661): error C2065: errorProvider2: необъявленный идентификатор
+     1>\\profile01\frw7\kraevayaa\desktop\application\application\Form1.h(661): error C2227: выражение слева от "->SetError" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+         table.cpp
+         Создание кода...
+     1>Построение проекта "\\profile01\FRW7\kraevayaa\Desktop\application\application\application.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:02.12
