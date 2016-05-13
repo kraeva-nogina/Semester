@@ -6,7 +6,7 @@
 using namespace System;
 using namespace std;
 #include "Calc.h"
-
+//yfyutfutfutfutftuy
 using namespace application;
 
 void Check(TextBox^ Chat, ErrorProvider^  error1, ErrorProvider^  error2, int &number)
